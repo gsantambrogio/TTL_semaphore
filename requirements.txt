@@ -1,0 +1,4 @@
+numpy==2.2.4
+pyepics==3.5.7
+pyparsing==3.2.3
+RPi.GPIO==0.7.1
